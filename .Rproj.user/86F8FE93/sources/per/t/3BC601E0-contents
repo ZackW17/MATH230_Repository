@@ -1,0 +1,10 @@
+---
+title: "Infographic"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![caption](MATH230_Poster_Project.png) 

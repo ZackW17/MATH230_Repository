@@ -12,4 +12,6 @@ navbar:
       href: NFL_Draft.html
     - text: "Visualizations"
       href: Visualizations.html
+    - text: "Infographic"
+      href: Infographic.html
 output: distill::distill_article

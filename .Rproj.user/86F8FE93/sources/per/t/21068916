@@ -3,7 +3,7 @@
     "path": "~/MATH230_Repository/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "3230889966",
+    "hash": "3251128437",
     "contents": "",
     "dirty": false,
     "created": 1746749125291.0,
@@ -11,14 +11,16 @@
     "relative_order": 4,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "17,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1746686374,
+    "lastKnownWriteTime": 1746752493,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746686374,
+    "last_content_update": 1746752493428,
     "read_only": false,
     "read_only_alternatives": []
 }
